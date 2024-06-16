@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Restaurant website",
+    "imageSrc": "projects/rest.png",
+    "description": "Created a dynamic restaurant website with React and Node.js. Features include browsing menus, making reservations, and online ordering with secure payment processing and real-time updates.",
+    "skills": ["React", "Node","CSS"]
+    
+  },
+  {
+    "title": "Clone",
+    "imageSrc": "projects/clone.png",
+    "description": "Popular website clones featuring a user-friendly interface and seamless functionality. Includes core features, responsive design, and secure backend integration to replicate the original site's experience.",
+    "skills": [ "Express", "Node","MongoDB"]
+   
+  },
+  {
+    "title": "Art Gallery",
+    "imageSrc": "projects/artgallery.png",
+    "description": "Developed an engaging art gallery website featuring artist profiles It includes high-resolution images, virtual tours,shopping, and interactive exhibition schedules for enhanced user experience.",
+    "skills": ["MongoDB", "Express", "Node"]
+   
+  }
+]

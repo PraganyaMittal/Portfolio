@@ -30,7 +30,7 @@
     "title": "Library Management System",
     "imageSrc": "projects/library.png",
     "description":"Built a C++ console-based Library Management System with book inventory, student registration, issuance/returns, file-based data storage, and user-friendly interface.",
-    "skills": ["C++", "HTML","Bootstrap" ,"Data Structures"]
+    "skills": ["HTML","Bootstrap" ,"Data Structures"]
   }
   
   

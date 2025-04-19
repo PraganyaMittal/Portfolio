@@ -38,6 +38,18 @@
   {
     "title": "C",
     "imageSrc": "skills/c.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.webp"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.webp"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.webp"
   }
   
 ]

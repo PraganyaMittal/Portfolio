@@ -3,21 +3,35 @@
     "title": "Restaurant website",
     "imageSrc": "projects/rest.png",
     "description": "Created a dynamic restaurant website with React and Node.js. Features include browsing menus, making reservations, and online ordering with secure payment processing and real-time updates.",
-    "skills": ["React", "Node","CSS"]
+    "skills": ["React", "NodeJS","CSS","HTML"]
     
   },
   {
     "title": "Clone",
     "imageSrc": "projects/clone.png",
     "description": "Popular website clones featuring a user-friendly interface and seamless functionality. Includes core features, responsive design, and secure backend integration to replicate the original site's experience.",
-    "skills": [ "Express", "Node","MongoDB"]
+    "skills": [ "Express", "NodeJS","MySQL","React"]
    
   },
   {
     "title": "Art Gallery",
     "imageSrc": "projects/artgallery.png",
     "description": "Developed an engaging art gallery website featuring artist profiles It includes high-resolution images, virtual tours,shopping, and interactive exhibition schedules for enhanced user experience.",
-    "skills": ["MongoDB", "Express", "Node"]
+    "skills": ["MongoDB", "Express", "NodeJS","React"]
    
+  },
+  {
+    "title": "Saree Store",
+    "imageSrc": "projects/saree.webp",
+    "description": "Designed and developed a stylish e-commerce website for saree shopping using Laravel. The platform features product filtering, secure checkout, detailed product views, and an intuitive admin panel for managing inventory and orders.",
+    "skills": ["Laravel", "PHP", "MySQL",  "JavaScript"]
+  },
+  {
+    "title": "Library Management System",
+    "imageSrc": "projects/library.png",
+    "description":"Built a C++ console-based Library Management System with book inventory, student registration, issuance/returns, file-based data storage, and user-friendly interface.",
+    "skills": ["C++", "HTML","Bootstrap" ,"Data Structures"]
   }
+  
+  
 ]
